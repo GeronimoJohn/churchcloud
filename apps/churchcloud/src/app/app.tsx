@@ -1,5 +1,5 @@
 import styles from './app.module.scss';
-
+import { Typography } from '@material-ui/core';
 import { ReactComponent as Logo } from './logo.svg';
 import star from './star.svg';
 
@@ -13,6 +13,7 @@ export function App() {
       <main>
         <h2>Resources &amp; Tools</h2>
         <p>Thank you for using and showing some ♥ for Nx.</p>
+        <Typography variant="h1">This is a typography</Typography>
         <div className="flex github-star-container">
           <a
             href="https://github.com/nrwl/nx"

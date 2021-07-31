@@ -1,35 +1,14 @@
-
-
 # ChurchCloud
 
-This project was generated using [Nx](https://nx.dev).
+Welcome to churchloud this is a side project of a few talented people who wants to create a cloud software that can eventually help churches
 
-<p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
+This project is running on the NX dev build framework. To learn more - click on the link [NX](https://nx.dev/)
 
-🔎 **Smart, Extensible Build Framework**
+Follow or find the command below to help you start building.
 
-## Adding capabilities to your workspace
+For starters to run the current webpage - type in your terminal
 
-Nx supports many plugins which add capabilities for developing different types of applications and different tools.
-
-These capabilities include generating applications, libraries, etc as well as the devtools to test, and build projects as well.
-
-Below are our core plugins:
-
-- [React](https://reactjs.org)
-  - `npm install --save-dev @nrwl/react`
-- Web (no framework frontends)
-  - `npm install --save-dev @nrwl/web`
-- [Angular](https://angular.io)
-  - `npm install --save-dev @nrwl/angular`
-- [Nest](https://nestjs.com)
-  - `npm install --save-dev @nrwl/nest`
-- [Express](https://expressjs.com)
-  - `npm install --save-dev @nrwl/express`
-- [Node](https://nodejs.org)
-  - `npm install --save-dev @nrwl/node`
-
-There are also many [community plugins](https://nx.dev/community) you could add.
+Run `nx serve churchcloud`
 
 ## Generate an application
 
@@ -78,8 +57,6 @@ Run `nx dep-graph` to see a diagram of the dependencies of your projects.
 ## Further help
 
 Visit the [Nx Documentation](https://nx.dev) to learn more.
-
-
 
 ## ☁ Nx Cloud
 

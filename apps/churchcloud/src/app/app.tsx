@@ -1,4 +1,4 @@
-import { VolunteerForm } from './components/volunteerForm/volunteer-form';
+import { VolunteerForm } from './components/volunteer-form/volunteer-form';
 
 export function App() {
   return <VolunteerForm />;
